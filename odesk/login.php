@@ -2,7 +2,7 @@
     include_once 'header.php';
 ?>
 
-<h1>Prijava</h1>
+<h1 id="prijava"></h1>Prijava</h1>
 
 <form action="login_check.php" method="POST">
     E-Pošta: <input type="email" name="email" /><br />
