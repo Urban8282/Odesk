@@ -1,0 +1,8 @@
+   .textbox {
+        width: 500px;
+        clear: both;
+    }
+    .textbox input {
+        width: 100%;
+        clear: both;
+    }
